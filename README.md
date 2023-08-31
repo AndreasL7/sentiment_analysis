@@ -64,3 +64,20 @@ The following workflow will be applied in this project:
 * Joshua: https://github.com/Joshzgx
 * Mabel: https://github.com/mabsla
 * Nathaniel: https://github.com/Nat-Han1999
+
+# Repository
+
+In this repository, you can find the following:
+
+1. Full Report
+2. Scraper Files
+3. Preprocessor for Raw Scraped Datasets
+4. Raw Scraped Datasets
+5. Models for Processed Datasets (PHASE 1)
+6. Models for Processed Datasets (PHASE 2)
+
+# Final Grade
+The final grade obtained for BT4222 Mining Web Data for Business Insights: A
+
+# Additional Information
+Construction of web interface for this project is under way.
